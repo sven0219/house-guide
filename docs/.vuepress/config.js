@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/ning-house-guide/',
+  base: '/',
   title: '南京买房记录',
   description: '南京买房记录',
   themeConfig: {
