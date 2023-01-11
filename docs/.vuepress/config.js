@@ -30,7 +30,7 @@ module.exports = {
                 { title: "计划", path: "/nanjing/plan" },
                 { title: "价格", path: "/nanjing/price" }
               ],
-            }
+            },
             {
               title: "芜湖",
               path: '/wuhu/why',
