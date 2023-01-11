@@ -4,7 +4,7 @@
 
 # 行政划区
 
-![行政区域图](../images/芜湖区域.png)
+![行政区域图](https://raw.githubusercontent.com/sven0219/house-guide/images/202301112139392.png)
 
 # 相关房产网站
 
