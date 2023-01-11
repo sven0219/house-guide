@@ -1,0 +1,16 @@
+{
+  "name": "ning-house-guide",
+  "version": "0.0.1",
+  "description": "Nanjing house guide",
+  "main": "index.js",
+  "repository": "git@github.com:sven0219/ning-house-guide.git",
+  "author": "sven <sven.shen@wiredcraft.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.8"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+}
+}
