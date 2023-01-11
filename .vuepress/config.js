@@ -6,6 +6,8 @@ module.exports = {
       lastUpdated: '最后更新于',
       docsRepo: 'sven0219/house-guide',
       docsBranch: 'main',
+      editLinks: true,
+      editLinkText: '欢迎指正',
       nav: [{
           text: '首页',
           link: '/'
