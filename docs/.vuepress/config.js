@@ -3,6 +3,9 @@ module.exports = {
   title: '买房调研',
   description: '买房记录',
   themeConfig: {
+        lastUpdated: '最后更新于',
+        docsRepo: 'sven0219/house-guide',
+        docsBranch: 'main',
         nav: [
             { text: '首页', link: '/' },
             {
