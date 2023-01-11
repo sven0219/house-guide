@@ -1,9 +1,9 @@
 {
   "name": "house-guide",
   "version": "0.0.1",
-  "description": "house guide",
+  "description": "House guide",
   "main": "index.js",
-  "repository": "git@github.com:sven0219/ning-house-guide.git",
+  "repository": "git@github.com:sven0219/house-guide.git",
   "author": "sven <swq1227@gmail.com>",
   "license": "MIT",
   "devDependencies": {

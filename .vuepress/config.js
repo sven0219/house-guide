@@ -24,8 +24,7 @@ module.exports = {
       sidebar: [{
           title: '买房记录',
           path: '/',
-          collapsable: false,
-          // 不折叠
+          collapsable: false, // 不折叠
           children: [{
               title: "关于",
               path: "/"
@@ -34,8 +33,7 @@ module.exports = {
       {
           title: "南京",
           path: '/nanjing/why',
-          collapsable: true,
-          // 折叠
+          collapsable: true, // 折叠
           children: [{
               title: "计划",
               path: "/nanjing/plan"
@@ -47,9 +45,8 @@ module.exports = {
       },
       {
           title: "芜湖",
-          path: '/wuhu/why',
-          collapsable: true,
-          // 折叠
+          path: '/wuhu/about',
+          collapsable: true, // 折叠
           children: [{
               title: "区域",
               path: "/wuhu/area"
@@ -74,8 +71,7 @@ module.exports = {
       {
           title: "合肥",
           path: '/hefei/why',
-          collapsable: true,
-          // 折叠
+          collapsable: true, // 折叠
           children: [{
               title: "计划",
               path: "/hefei/plan"
