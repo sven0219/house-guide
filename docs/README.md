@@ -8,5 +8,4 @@
 - [芜湖](https://house.svenshen.com/wuhu/why.html)
 - [合肥](https://house.svenshen.com/hefei/why.html)
 
-[站点](https://house.svenshen.com/)
 [Repo](https://github.com/sven0219/house-guide)
