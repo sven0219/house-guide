@@ -1,7 +1,7 @@
 module.exports = {
   base: '/',
-  title: '南京买房记录',
-  description: '南京买房记录',
+  title: '买房调研',
+  description: '买房记录',
   themeConfig: {
         nav: [
             { text: '首页', link: '/' },
@@ -15,7 +15,7 @@ module.exports = {
         ],
    sidebar: [
             {
-                title: '南京买房记录',
+                title: '买房记录',
                 path: '/',
                 collapsable: false, // 不折叠
                 children: [
@@ -23,12 +23,21 @@ module.exports = {
                 ]
             },
             {
-              title: "目录",
-              path: '/playbook',
-              collapsable: false, // 不折叠
+              title: "南京",
+              path: '/nanjing/why',
+              collapsable: true, // 折叠
               children: [
-                { title: "计划", path: "/playbook/plan" },
-                { title: "价格", path: "/playbook/price" }
+                { title: "计划", path: "/nanjing/plan" },
+                { title: "价格", path: "/nanjing/price" }
+              ],
+            }
+            {
+              title: "芜湖",
+              path: '/wuhu/why',
+              collapsable: true, // 折叠
+              children: [
+                { title: "计划", path: "/wuhu/plan" },
+                { title: "价格", path: "/wuhu/price" }
               ],
             }
           ]

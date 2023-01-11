@@ -1,5 +1,7 @@
-# 本仓库
+# 关于
 
-计划2023年南京买房，因此创建此仓库用来记录
+计划2023年将以后定居的城市确定下来，因此创建此文档对意向城市进行调研。
 
-url: https://house.svenshen.com
+目前意向城市 [南京](https://house.svenshen.com/nanjing) / [芜湖](https://house.svenshen.com/wuhu)
+
+[站点](https://house.svenshen.com/)
