@@ -4,8 +4,8 @@
 
 目前意向城市:
 
-- [南京](https://house.svenshen.com/nanjing/why.html)
-- [芜湖](https://house.svenshen.com/wuhu/why.html)
-- [合肥](https://house.svenshen.com/hefei/why.html)
+- [南京](https://house.svenshen.com/nanjing/about.html)
+- [芜湖](https://house.svenshen.com/wuhu/about.html)
+- [合肥](https://house.svenshen.com/hefei/about.html)
 
 [Repo](https://github.com/sven0219/house-guide)
