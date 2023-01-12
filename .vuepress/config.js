@@ -37,8 +37,16 @@ module.exports = {
             path: '/nanjing/about',
             collapsable: true,
             children: [{
+                title: "区域",
+                path: "/nanjing/area"
+
+            },{
                 title: "政策",
                 path: "/nanjing/policy"
+
+            },{
+                title: "学区",
+                path: "/nanjing/school"
 
             },
             {
