@@ -8,7 +8,7 @@
 
 ![行政区域图](../images/wuhu/area.png "芜湖行政区域图")
 
-<center>来源:  百度百科</center>
+来源：百度百科
 
 ## 相关房产网站
 
