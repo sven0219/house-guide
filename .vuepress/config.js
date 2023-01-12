@@ -85,9 +85,21 @@ module.exports = {
         },
         {
             title: "合肥",
-            path: '/hefei/why',
+            path: '/hefei/about',
             collapsable: true,
             children: [{
+                title: "区域",
+                path: "/hefei/area"
+            },
+            {
+                title: "政策",
+                path: "/hefei/policy"
+            },
+            {
+                title: "学区",
+                path: "/hefei/school"
+            },
+            {
                 title: "计划",
                 path: "/hefei/plan"
             },
