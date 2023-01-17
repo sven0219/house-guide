@@ -2,11 +2,15 @@
 
 ## 地理位置
 
+南京市属于副省级城市，是江苏省的省会。
 
+## 行政区域划分
+
+![南京区域](../images/nanjing/area.png)
 
 ## 价格
 
-![南京房价](/Users/sveshen/work/person/ning-house-guide/images/nanjing/price.jpeg "南京新房房价地图 2022-12-20")
+![南京房价](../images/nanjing/price.jpeg "南京新房房价地图 2022-12-20")
 
 来源： 365淘房
 

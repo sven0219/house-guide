@@ -50,7 +50,7 @@ module.exports = {
 
             },
             {
-                title: "计划",
+                title: "规划",
                 path: "/nanjing/plan"
             },
             {
@@ -75,7 +75,7 @@ module.exports = {
                 path: "/wuhu/school"
             },
             {
-                title: "计划",
+                title: "规划",
                 path: "/wuhu/plan"
             },
             {
@@ -100,7 +100,7 @@ module.exports = {
                 path: "/hefei/school"
             },
             {
-                title: "计划",
+                title: "规划",
                 path: "/hefei/plan"
             },
             {
