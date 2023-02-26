@@ -10,7 +10,7 @@
     "vuepress": "^1.9.9"
   },
   "scripts": {
-    "dev": "vuepress dev",
-    "build": "vuepress build"
+    "dev": " SET NODE_OPTIONS=--openssl-legacy-provider && vuepress dev",
+    "build": "SET NODE_OPTIONS=--openssl-legacy-provider && vuepress build"
 }
 }
