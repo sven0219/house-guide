@@ -107,11 +107,12 @@ module.exports = {
                 title: "价格",
                 path: "/hefei/price"
             }],
-        },
-	{
+        },{
 	   title: "工具",
 	   path: '/tools',
-           collapsable: false
+       collapsable: false,
+       children: [{}]
+
 	}]
     }
 }
