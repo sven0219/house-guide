@@ -24,39 +24,13 @@ module.exports = {
             }]
         }],
         sidebar: [{
-            title: '买房调研',
+            title: '芜湖买房调研',
             path: '/',
             collapsable: false,
             children: [{
                 title: "关于",
                 path: "/"
             }]
-        },
-        {
-            title: "南京",
-            path: '/nanjing/about',
-            collapsable: true,
-            children: [{
-                title: "区域",
-                path: "/nanjing/area"
-
-            },{
-                title: "政策",
-                path: "/nanjing/policy"
-
-            },{
-                title: "学区",
-                path: "/nanjing/school"
-
-            },
-            {
-                title: "规划",
-                path: "/nanjing/plan"
-            },
-            {
-                title: "价格",
-                path: "/nanjing/price"
-            }],
         },
         {
             title: "芜湖",
@@ -83,30 +57,6 @@ module.exports = {
                 path: "/wuhu/price"
             }],
         },
-        {
-            title: "合肥",
-            path: '/hefei/about',
-            collapsable: true,
-            children: [{
-                title: "区域",
-                path: "/hefei/area"
-            },
-            {
-                title: "政策",
-                path: "/hefei/policy"
-            },
-            {
-                title: "学区",
-                path: "/hefei/school"
-            },
-            {
-                title: "规划",
-                path: "/hefei/plan"
-            },
-            {
-                title: "价格",
-                path: "/hefei/price"
-            }],
         },{
 	   title: "工具",
 	   path: '/tools',
