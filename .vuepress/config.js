@@ -35,7 +35,7 @@ module.exports = {
         {
             title: "芜湖",
             path: '/wuhu/about',
-            collapsable: true,
+            collapsable: false,
             children: [{
                 title: "区域",
                 path: "/wuhu/area"
