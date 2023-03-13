@@ -57,7 +57,7 @@ module.exports = {
                 path: "/wuhu/price"
             }],
         },
-        },{
+        {
 	   title: "工具",
 	   path: '/tools',
        collapsable: false,
